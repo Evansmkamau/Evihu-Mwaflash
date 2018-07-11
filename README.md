@@ -1,5 +1,5 @@
 # Evihu-Mwaflash
-Clean continuous flash
+# Clean continuous flash
 #!/usr/bin/env python
 import subprocess
 from time import sleep
